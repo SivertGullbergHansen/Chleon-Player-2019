@@ -8,10 +8,7 @@ I do not own any of the sources used, I only compiled them and fixed bugs.</p>
 </p>
 
 <h1>Original Chleon-Player-Description: </h1>
----------------------------------------------------------------------------------------
-
-
-
+---
 <p align="center">
 <img src="http://orig06.deviantart.net/d50d/f/2016/150/6/f/chleon_player_1_1_by_marcopixel-da24rvm.png">
 </p>
