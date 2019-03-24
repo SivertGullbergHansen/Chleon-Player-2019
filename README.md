@@ -11,7 +11,7 @@
 # How to install:
 **The latest version of Rainmeter is required for this skin to work**
 - Click the green button on the right side above this text ("Clone or Download") and select "Download ZIP". Github will now ZIP the original ZIP-file I uploaded, we will be using the ZIP-file "Skins.ZIP" inside of the file you downloaded.
-- Locate this folder in your Documents: C:\Users\YourName\Documents\Rainmeter, in this location you should have a folder called "Skins".
+- Locate this folder in your Documents: *C:\Users\YourName\Documents\Rainmeter* , in this location you should have a folder called "Skins".
 - Open the ZIP-file you downloaded and drag or extract the folder named "Skins" to the location you found. Click yes when prompted to merge/replace the already existing folder with your zipped folder.
 - Refresh or restart Rainmeter and load the skin "spotify.ini".
 - **Give the skin a few seconds to prepare**, you can start spotify **before** or **after** loading the skin, the skin will look for any source providing information such as Artist-name, Title, Song duration, etc. (This is documented over at Tjhrulz Github where he released the plugin WebNowPlaying that does the magic with the new Spotify version).
