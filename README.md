@@ -1,8 +1,15 @@
-# -RM-Chleon-Player-2019-Spotify-Only-
-This is the unofficial update to the Chleon Player for Rainmeter. Chleon Player
+# Chleon Player 2019 (Unofficial - spotify)
+This is the unofficial update for the Chleon Player for Rainmeter. Chleon Player was originally made by marcopixel and the latest update was released in 2017. Due to new changes to spotify, the skin no longer work with the current version of Spotify, that is why I took the time to update the plugins with a up-to-date plugin named WebNowPlaying, released by tjhrulz.
+I do not own any of the sources used, I only compiled them and fixed bugs.
+
+Chleon Player link: https://github.com/marcopixel/Chleon-Player
+WebNowPlaying link: https://github.com/tjhrulz/WebNowPlaying
 
 
-<h1>Original Description: </h1>
+<h1>Original Chleon-Player-Description: </h1>
+---------------------------------------------------------------------------------------
+
+
 
 <p align="center">
 <img src="http://orig06.deviantart.net/d50d/f/2016/150/6/f/chleon_player_1_1_by_marcopixel-da24rvm.png">
