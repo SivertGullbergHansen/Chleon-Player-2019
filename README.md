@@ -7,8 +7,17 @@ I do not own any of the sources used, I only compiled them and fixed bugs.</p>
 <p>WebNowPlaying link: https://github.com/tjhrulz/WebNowPlaying
 </p>
 
+## How to install:
+**The latest version of Rainmeter is required for this skin to work**
+- Click the green button above this text ("Clone or Download") to the right and select "Download ZIP".
+- Locate this folder in your Documents: C:\Users\YourName\Documents\Rainmeter, in this location you should have a folder called "Skins".
+- Open the ZIP-file you downloaded and drag or extract the folder named "Skins" to the location you found. Click yes when prompted to merge/replace the already existing folder with your zipped folder.
+- Refresh or restart Rainmeter and load the skin "spotify.ini".
+- **Give the skin a few seconds to prepare**, you can start spotify **before** or **after** loading the skin, the skin will look for any source providing information such as Artist-name, Title, Song duration, etc. (This is documented over at Tjhrulz Github where he released the plugin WebNowPlaying that does the magic with the new Spotify version).
+- *This skin does not monitor your computer, it only reads the Spotify.exe processor. I did not write the codes for this skin but I have looked through them (for my own safety). If you have any need for inquiry, please contact the original creator of this skin. I have only modified the .ini-file that controls what plugin to use and I have modified the existing syntax to match the new plugin.*
+
 <h1>Original Chleon-Player-Description: </h1>
----
+***
 <p align="center">
 <img src="http://orig06.deviantart.net/d50d/f/2016/150/6/f/chleon_player_1_1_by_marcopixel-da24rvm.png">
 </p>
