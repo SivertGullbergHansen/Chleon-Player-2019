@@ -1,4 +1,4 @@
-# Chleon Player 2019 (Unofficial - spotify)
+## Chleon Player 2019 (Unofficial - spotify)
 <p>This is the unofficial update for the Chleon Player for Rainmeter. Chleon Player was originally made by marcopixel and the latest update was released in 2017. Due to new changes to spotify, the skin no longer work with the current version of Spotify, that is why I took the time to update the plugins with a up-to-date plugin named WebNowPlaying, released by tjhrulz.</p>
 
 **I do not own any of the sources used, I only compiled them and fixed bugs.**
@@ -8,7 +8,7 @@
 <p>WebNowPlaying link: https://github.com/tjhrulz/WebNowPlaying
 </p>
 
-## How to install:
+# How to install:
 **The latest version of Rainmeter is required for this skin to work**
 - Click the green button above this text ("Clone or Download") to the right and select "Download ZIP". Github will now ZIP the original ZIP-file I uploaded, we will be using the ZIP-file "Skins.ZIP" inside of the file you downloaded.
 - Locate this folder in your Documents: C:\Users\YourName\Documents\Rainmeter, in this location you should have a folder called "Skins".
@@ -23,7 +23,7 @@
 <img src="http://orig06.deviantart.net/d50d/f/2016/150/6/f/chleon_player_1_1_by_marcopixel-da24rvm.png">
 </p>
 
-# Chleon Media Player
+## Chleon Media Player
 
 A minimalistic media player which fits on your deskop every time! Changes the color automatically to the desktop background.
 Supports all major media players (AIMP, iTunes, Winamp, VLC, etc...) and full Spotify support (thanks to .raptor for the Spotify plugin).
