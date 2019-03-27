@@ -18,6 +18,10 @@
 
 # How to install:
 **The latest version of Rainmeter is required for this skin to work**
+### Simple installation:
+- Run the .rmskin-file and install the skin.
+
+### Advanced installation:
 - Click the green button at the top of this page that says "Clone or Download" and select "Download ZIP". Github will now ZIP the original ZIP-files I uploaded, we will be using the ZIP-file "Skins.ZIP" and "Plugins.ZIP" inside of the file you downloaded.
 - Locate this folder in your Documents: *C:\Users\YourName\Documents\Rainmeter* , in this location you should have a folder called "Skins".
 - Open the ZIP-file "Skins.ZIP" inside the file you downloaded and drag&drop/extract the folder named "Skins" from "Skins.ZIP" to the location you found. Click yes when prompted to merge/replace the already existing folder with the folder you extracted. **Your structure should look like this: *\Documents\Rainmeter\Skins\Chleon-Player***
