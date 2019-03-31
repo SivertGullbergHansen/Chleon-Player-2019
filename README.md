@@ -23,7 +23,8 @@
 # How to install:
 **The latest version of Rainmeter is required for this skin to work**
 ### Simple installation:
-- Run the .rmskin-file and install the skin.
+- Click the green button at the top of this page that says "Clone or Download" and select "Download ZIP".
+- Open the .ZIP-file and run the .rmskin-file, then install the skin.
 
 ### Advanced installation:
 - Click the green button at the top of this page that says "Clone or Download" and select "Download ZIP". Github will now ZIP the original ZIP-files I uploaded, we will be using the ZIP-file "Skins.ZIP" and "Plugins.ZIP" inside of the file you downloaded.
