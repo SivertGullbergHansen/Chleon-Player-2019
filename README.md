@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
- <img src="https://i.imgur.com/rRH77IN.png" width="200"><img src="https://i.imgur.com/sxqnY82.png" width="200"><img src="https://i.imgur.com/IdMyT7x.png" width="200"><img src="https://i.imgur.com/Ma09E3H.png" width="200"><img src="https://i.imgur.com/qiiSHrF.png" width="200"><img src="https://i.imgur.com/ICsqwiv.png" width="200"><img src="https://i.imgur.com/JnxVO6v.png" width="200"><img src="https://i.imgur.com/2LPcA1m.png" width="200"><img src="https://i.imgur.com/am4QwFh.png" width="200">
+ <img src="https://i.imgur.com/rRH77IN.png" width="75%"><img src="https://i.imgur.com/sxqnY82.png" width="75%"><img src="https://i.imgur.com/IdMyT7x.png" width="75%"><img src="https://i.imgur.com/Ma09E3H.png" width="75%"><img src="https://i.imgur.com/qiiSHrF.png" width="75%"><img src="https://i.imgur.com/ICsqwiv.png" width="75%"><img src="https://i.imgur.com/JnxVO6v.png" width="75%"><img src="https://i.imgur.com/2LPcA1m.png" width="75%"><img src="https://i.imgur.com/am4QwFh.png" width="75%">
 </p>
 
 **I do not own any of the sources used, I only compiled them and fixed bugs.**
