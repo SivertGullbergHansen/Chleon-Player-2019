@@ -12,10 +12,8 @@
 
 **I do not own any of the sources used, I only compiled them and fixed bugs.**
 
-<p>[Original Chleon-Player](https://github.com/marcopixel/Chleon-Player)
-</p>
-<p>[WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying)
-</p>
+[Original Chleon-Player](https://github.com/marcopixel/Chleon-Player)
+[WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying)
 
 # How to configure:
 - Locate this location in your documents: *C: \ Users \ Your Name \ Documents \ Rainmeter \ Skins \ Chleon-Player \ @Resources* **(simply open rainmeter, right click "Chleon-Player" and choose "open folder", then open the @Resources folder)** and open the file *variables.INI*. 
