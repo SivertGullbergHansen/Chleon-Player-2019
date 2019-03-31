@@ -12,9 +12,9 @@
 
 **I do not own any of the sources used, I only compiled them and fixed bugs.**
 
-<p>[GitHub: Original Chleon-Player](https://github.com/marcopixel/Chleon-Player)
+<p>[Original Chleon-Player](https://github.com/marcopixel/Chleon-Player)
 </p>
-<p>[GitHub: WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying)
+<p>[WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying)
 </p>
 
 # How to configure:
