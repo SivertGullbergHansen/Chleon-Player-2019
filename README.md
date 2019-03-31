@@ -1,3 +1,4 @@
+[Click here]: https://github.com/zPow/Chleon-Player-2019/releases/download/v0.1.0/Chleon.Player.2019_11.rmskin
 ## Chleon Player 2019 (Unofficial - spotify)
 <p>This is the unofficial update for the Chleon Player for Rainmeter. Chleon Player was originally made by marcopixel and the latest update was released in 2017. Due to new changes to spotify, the skin no longer work with the current version of Spotify, that is why I took the time to update the plugins with a up-to-date plugin named WebNowPlaying, released by tjhrulz.</p>
 
@@ -23,8 +24,8 @@
 # How to install:
 **The latest version of Rainmeter is required for this skin to work**
 ### Simple installation:
-- Click the green button at the top of this page that says "Clone or Download" and select "Download ZIP".
-- Open the .ZIP-file and run the .rmskin-file, then install the skin.
+- [Click here] to download the latest release.
+- Run the .rmskin-file you downloaded and install the skin.
 
 ### Advanced installation:
 - Click the green button at the top of this page that says "Clone or Download" and select "Download ZIP". Github will now ZIP the original ZIP-files I uploaded, we will be using the ZIP-file "Skins.ZIP" and "Plugins.ZIP" inside of the file you downloaded.
