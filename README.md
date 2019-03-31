@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
- <img src="https://i.imgur.com/90NKtVI.png"><img src="https://i.imgur.com/0ttLZrV.png"><img src="https://i.imgur.com/AXbqb8u.png"><img src="https://i.imgur.com/FYnJseM.png"><img src="https://i.imgur.com/BGU8dbu.png"><img src="https://i.imgur.com/86Kou3l.png">
+ <img src="https://i.imgur.com/rRH77IN.png"><img src="https://i.imgur.com/sxqnY82.png"><img src="https://i.imgur.com/IdMyT7x.png"><img src="https://i.imgur.com/Ma09E3H.png"><img src="https://i.imgur.com/qiiSHrF.png"><img src="https://i.imgur.com/ICsqwiv.png"><img src="https://i.imgur.com/JnxVO6v.png"><img src="https://i.imgur.com/2LPcA1m.png"><img src="https://i.imgur.com/am4QwFh.png">
 </p>
 
 **I do not own any of the sources used, I only compiled them and fixed bugs.**
