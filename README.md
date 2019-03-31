@@ -17,7 +17,7 @@
 </p>
 
 # How to configure:
-- Locate this location in your documents: *C:\Users\Your Name\Documents\Rainmeter\Skins\Chleon-Player\@Resources* **(simply open rainmeter, right click "Chleon-Player" and choose "open folder", then open the @Resources folder)** and open the file *variables.INI*. 
+- Locate this location in your documents: *C: \ Users \ Your Name \ Documents \ Rainmeter \ Skins \ Chleon-Player \ @Resources* **(simply open rainmeter, right click "Chleon-Player" and choose "open folder", then open the @Resources folder)** and open the file *variables.INI*. 
 - In this file you can change the size of the Media Player and also change some of the default settings like the chameleon-effect (same background-color as the album) and more.
 
 # How to install:
